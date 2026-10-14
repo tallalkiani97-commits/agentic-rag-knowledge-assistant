@@ -1,0 +1,6 @@
+# The baseline CLI uses only the Python standard library.
+# Optional production integrations can be added here:
+# sentence-transformers
+# qdrant-client
+# pymongo
+# streamlit
